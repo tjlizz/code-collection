@@ -31,6 +31,8 @@
         padding: 0;
         margin: 0;
         border: 0;
+        overflow: hidden;
+
     }
 
     a {
@@ -54,6 +56,9 @@
     .el-header {
         background: #323841;
         text-align: center;
+    }
+    .el-main{
+        padding: 0 !important;
     }
 
 </style>
